@@ -1,0 +1,15 @@
+1)sanatorium
+2)typenomer
+3)personal
+4)doljnosti
+5)apparatura
+6)typeheal
+7)ghostsanatorium
+8)Broner
+8,5)allpersonal
+9)sotrudnikisanatorium
+10)medkard
+11)cabinet
+12)aparaturavkabinetike
+13)healuser
+14)healsanatoriums
